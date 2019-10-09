@@ -1,0 +1,11 @@
+published:
+    - app:
+        category: life
+        aplication: weather
+        name: 天气
+        publish_date: 2019-10-09
+        url: /service/weather
+        desc: this is a weather app.
+
+
+
